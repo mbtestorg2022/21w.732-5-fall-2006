@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Technical Writing"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ]
+  ],
+  "legacy_uid": "5fdfa172-2d40-9d10-4ef1-34b4b2e91ab4",
+  "instructors": {
+    "content": [
+      "de810f75-ace3-4bec-081c-e60826407fba"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "df52ae04-4c9d-a31c-465b-1f5ec55888ce",
+    "website": "21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006"
+  },
+  "course_title": "Introduction to Technical Communication: Explorations in Scientific and Technical Writing",
+  "course_description": "This course is designed to help you develop skills that will enable you to produce clear and effective scientific and technical documents. We will focus on basic principles of good writing-which scientific and technical writing shares with other forms of writing-and on types of documents common in scientific and technical fields and organizations. While the emphasis will be on writing, oral communication of scientific and technical information will form an important component of the course, as well.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.732-5",
+  "course_image_thumbnail": {
+    "content": "c34c0c28-19f1-e6b6-ace8-508eb34f8130",
+    "website": "21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "34f35840-3ebb-4f74-a1f5-f3917a08ce4e",
+  "title": "Course Metadata"
+}
